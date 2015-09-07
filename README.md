@@ -116,8 +116,8 @@ The intent of this guide is to bring our codebase one step closer in achieving t
 * Delegates for a specific class should be declared in that class’s header file and name PFXClassName + Delegate
 * Delegate properties should, more often than not (read: 99.9% of the time), be declared ‘weak’
 * Delegate methods should return the delegate object as the first argument (or only object if there are no other arguments), similar to a UITableView delegate e.g.
-- (void)class:(PFXClassDelegate *)class didSendAMessage:(NSObject *)messageObj;
-- (void)classDidDoSomething:(PFXClassDelegate *)class;
+  - (void)class:(PFXClassDelegate *)class didSendAMessage:(NSObject *)messageObj;
+  - (void)classDidDoSomething:(PFXClassDelegate *)class;
 
 ## Returns
 
