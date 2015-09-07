@@ -121,4 +121,4 @@ The intent of this guide is to bring our codebase one step closer in achieving t
 
 ## Returns
 
-1. Both multiple returns and single returns in any given method are acceptable
+* Both multiple returns and single returns in any given method are acceptable
