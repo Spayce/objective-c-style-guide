@@ -25,7 +25,7 @@ The intent of this guide is to bring our codebase one step closer in achieving t
 * [MVC](#mvc)
 * [Comments](#comments)
 * [General](#general)
-* [Designated inits/inits/dealloc](#designated-inits/inits/dealloc)
+* [Designated inits/inits/dealloc](#designated-initsinitsdealloc)
 * [Conditionals](#conditionals)
 * [Imports](#imports)
 * [Delegates](#delegates)
@@ -111,7 +111,7 @@ The intent of this guide is to bring our codebase one step closer in achieving t
 * Use #import (over #include)
 * Group #imports according to // Controllers, // Models, // Views, // Utilities, etc. Groups should be ordered alphabetically
 
-## Delegate
+## Delegates
 
 * Delegates for a specific class should be declared in that class’s header file and name PFXClassName + Delegate
 * Delegate properties should, more often than not (read: 99.9% of the time), be declared ‘weak’
