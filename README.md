@@ -33,7 +33,7 @@ The intent of this guide is to bring our codebase one step closer in achieving t
 
 ## Naming
 
-* Do NOT abbreviate const/variable/method names. [Acceptable abbreviations](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/Articles/APIAbbreviations.html)
+* Do NOT abbreviate const/variable/method names. [Acceptable abbreviations here.](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/Articles/APIAbbreviations.html)
 * Use 3-letter prefixes, not 2-letter prefixes. Use class- or application- or framework-level prefixes, as necessary
 * Use camelCase for consts/variables/methods/everything, however use an all-capital prefix where appropriate
 * Do NOT use the word ’and’ when declaring a method or in its parameter list, unless using it to separate distinct actions of the method
