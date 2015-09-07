@@ -19,17 +19,17 @@ The intent of this guide is to bring our codebase one step closer in achieving t
 
 ## Table of Contents
 
-* [Naming](#Naming)
-* [Spacing](#Spacing)
-* [Consts/Enums/Variables/Types](#Consts/Enums/Variables/Types)
-* [MVC](#MVC)
-* [Comments](#Comments)
-* [General](#General)
-* [Designated inits/inits/dealloc](#Designated-inits/inits/dealloc)
-* [Conditionals](#Conditionals)
-* [Imports](#Imports)
-* [Delegates](#Delegates)
-* [Returns](#Returns)
+* [Naming](#naming)
+* [Spacing](#spacing)
+* [Consts/Enums/Variables/Types](#constsenumsvariablestypes)
+* [MVC](#mvc)
+* [Comments](#comments)
+* [General](#general)
+* [Designated inits/inits/dealloc](#designated-inits/inits/dealloc)
+* [Conditionals](#conditionals)
+* [Imports](#imports)
+* [Delegates](#delegates)
+* [Returns](#returns)
 
 ## Naming
 
