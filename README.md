@@ -19,6 +19,7 @@ The intent of this guide is to bring our codebase one step closer in achieving t
 
 ## Table of Contents
 
+* [Interface](#interface)
 * [Naming](#naming)
 * [Spacing](#spacing)
 * [Consts/Enums/Variables/Types](#constsenumsvariablestypes)
@@ -30,6 +31,10 @@ The intent of this guide is to bring our codebase one step closer in achieving t
 * [Imports](#imports)
 * [Delegates](#delegates)
 * [Returns](#returns)
+
+## Interface
+
+* Do NOT use Storyboards/Interface Builder, as the majority of our projects' UI are highly customized, which do not fare well in conjunction with the generic tools provided by Xcode.
 
 ## Naming
 
